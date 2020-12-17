@@ -148,7 +148,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 [上海爱服生信息科技有限公司](https://aifusheng.com) 版权所有 <br> ![img](https://daqingmei.com/img/备案图标.png) [沪ICP备2020034366号-1]() "
+copyright = "Copyright &copy; 2020 [上海爱服生信息科技有限公司](https://aifusheng.com) 版权所有 <br> ![img](https://daqingmei.com/img/备案图标.png) [沪ICP备2020034366号-2](http://www.beian.miit.gov.cn) "
 
 
 ######################### english navigation #############################
@@ -190,7 +190,7 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Pages"
-  name = "Service"
+  name = "产品服务"
   URL = "service"
   
 [[Languages.en.menu.main]]

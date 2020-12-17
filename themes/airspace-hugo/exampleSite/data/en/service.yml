@@ -18,19 +18,19 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Interface Design"
+    - name : "爱省事"
       icon : "ion-erlenmeyer-flask"
       color : "primary"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
       
     # featured service item loop
-    - name : "Product Branding"
+    - name : "爱省心"
       icon : "ion-leaf"
       color : "primary-dark"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
       
     # featured service item loop
-    - name : "Game Development"
+    - name : "爱上班"
       icon : "ion-lightbulb"
       color : "primary-darker"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
@@ -40,8 +40,7 @@ featured_service:
 service:
   enable : true
   title : "爱服产品系列"
-  description : "爱省事、爱省心、爱上“班”, 无限爱你<br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  description : "爱省事、爱省心、爱上“班”, 无限爱你<br> service with love create a beautiful life  service with love create a beautiful life"
   service_item:
     # service item loop
     - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
@@ -66,22 +65,22 @@ service:
     # service item loop
     - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: 爱服优派
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "承接全生命周期外包服务，以交付为导向，解决企业岗位紧缺，项目紧急的服务场景。"
 
     # service item loop
     - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: 爱服灵工
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "提供场景型解决方案，四流合一，闭环服务更合规。自营园区多地分布，属地化优势各取所长，构建共享经济数字化综合服务平台。"
 
     # service item loop
     - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: 爱无忧
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "爱小生根据企业的实际需求，提供商业保险，单工商等综合企业增值服务。为企业、员工双重护航。"
 
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: 爱优选
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "爱小生提供多维度，多场景的招聘服务，精准简历推送，批量到面短平快，到岗服务，候选人入职有保障。"
       
 ############################# call to action #################################
 cta:

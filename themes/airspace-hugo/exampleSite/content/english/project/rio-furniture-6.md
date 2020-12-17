@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
+title: "吉祥混沌"
 description: "this is meta description"
 draft: false
 image : "images/portfolio/work6.jpg"
 bg_image: "images/featue-bg.jpg"
-category: "Video"
+category: "餐饮行业"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

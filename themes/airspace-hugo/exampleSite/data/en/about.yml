@@ -3,13 +3,13 @@ about:
   enable : true
   image : "images/company/about.jpg"
   title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
-          iure officiis facere vitae itaque.
-          
-          
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-          velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  content : "爱服生团队组建于2017年，一直专注于行业头部客户人力资源定制化解决方案，并利用数字化运营向就业者提供服务。<br>
+                    2020年正式注册爱服生品牌，成立上海爱服生信息科技有限公司，注册资金为500万。目前经营和授权服务机构分布在全国多个城市和地区。<br>
+
+  公司覆盖 21个税源地，主导 4个税源地；撮合多家人力资源垂直领域头部企业。<br>
+                    主要为全国范围内的 科技型企业、服务企业 提供真实岗位的灵活用工服务、全流程外包服务。<br>
+                    目前已与国内近600家平台性科技公司和著名的人力资源公司开展业务合作。合作国内一线公司包括：生产型企业、线上平台、服务公司、投资公司等。<br>
+          "
 
   button:
     enable : true

@@ -3,8 +3,8 @@ banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
-  title : "用爱服务 <br/> 创造美好生活"
-  content : ""
+  title : "用爱服务 创造美好生活"
+  content : "service with love create a beautiful life service with love create a beautiful life service with love create a beautiful life"
   button:
     enable : true
     label : "看看我们的经典案例"
