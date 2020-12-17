@@ -37,8 +37,8 @@ portfolio:
   "
   button:
     enable : true
-    label : "View Works"
-    link : "project"
+    label : "政策动向"
+    link : "blog"
 
 
 ############################# Service ############################
@@ -51,8 +51,8 @@ service:
 cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
-  title : "We design delightful digital experiences."
-  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title : "智能排班系统"
+  content : "将适当的人，在适当的时间，安排在适当的位置<br/>爱小生依托强大的系统服务，通过智能排班系统，帮助企业构建用工模型，精准预测用工时段，高效匹配高效的用工场景和人员模型，用数字驱动效率，用技能提升服务。"
   button:
     enable : true
     label : "Tell Us Your Story"

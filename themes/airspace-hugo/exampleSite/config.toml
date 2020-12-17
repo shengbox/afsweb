@@ -148,7 +148,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 [上海爱服生信息科技有限公司](https://aifusheng.com) All Rights Reserved  ![img](https://daqingmei.com/img/备案图标.png) [沪ICP备2020034366号-1]() "
+copyright = "Copyright &copy; 2020 [上海爱服生信息科技有限公司](https://aifusheng.com) 版权所有 <br> ![img](https://daqingmei.com/img/备案图标.png) [沪ICP备2020034366号-1]() "
 
 
 ######################### english navigation #############################
@@ -169,7 +169,7 @@ URL = "project"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "新闻动态"
+name = "新闻政策"
 URL = "blog"
 weight = 4
 
@@ -206,7 +206,7 @@ URL = "about"
 weight = 1
 
 [[Languages.en.menu.footer]]
-name = "Project"
+name = "案例"
 URL = "project"
 weight = 2
 
