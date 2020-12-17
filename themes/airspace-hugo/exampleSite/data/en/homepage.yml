@@ -1,0 +1,108 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/slider-bg.jpg"
+  bg_overlay : true
+  title : "用爱服务 <br/> 创造美好生活"
+  content : ""
+  button:
+    enable : true
+    label : "Discover Our Project"
+    link : "project"
+
+############################# About #################################
+about:
+  enable : true
+  title : "关于我们"
+  description : "爱服生团队组建于2017年，一直专注于行业头部客户人力资源定制化 解决方案，并利用数字化运营向就业者提供服务。"
+  content : "2020年正式注册爱服生品牌，成立上海爱服生信息科技有限公司，注册 资金为500万。目前经营和授权服务机构分布在全国多个城市和地区。<br/>
+  公司核心人员由资深人力资源服务专家、垂直行业劳动力系统管理专家、财税专家以及营销专家发起。具备扎实的专业基础、客户基础 和资源基础。<br/>
+  现设有研发及专家服务团队包括: 税务、法务、政府政策研究、系统架 构、开发及产品、运营服务人员。"
+  image : "images/wrapper-img.png"
+
+
+######################### Portfolio ###############################
+portfolio:
+  enable : true
+  bg_image : "images/featue-bg.jpg"
+  title : "政策背景"
+  content : "
+  国家鼓励:李克强总理在2019年政府工作报告中又一次明确对平台经济、共享经济和灵活就业的支持态度， 同时强调加快在羹行业各领域推进“互联网+”。
+
+
+  企业发展需要:以微商为代表的新经济，人人都是经营者，人人都是老板，发展迅速。企业旧的组织结构、雇佣关系，不适应当今激烈的竞争大环境。
+
+
+  社保入税:全国联网，清扫国地税分散管理盲区。 明确了税务的征缴责任，征缴力度提高，不缴社保的法律责任由补缴变成刑事/补缴+罚款+滞纳金
+  "
+  button:
+    enable : true
+    label : "View Works"
+    link : "project"
+
+
+############################# Service ############################
+service:
+  enable : true
+  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/call-to-action-bg.jpg"
+  title : "We design delightful digital experiences."
+  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  button:
+    enable : true
+    label : "Tell Us Your Story"
+    link : "contact"
+
+############################# Funfacts ###############################
+funfacts:
+  enable : true
+  title : "Fun Facts About Us"
+  description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
+          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Cups Of Coffee"
+      count : "99"
+      
+    # funfacts item loop
+    - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Article Written"
+      count : "45"
+      
+    # funfacts item loop
+    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Projects Completed"
+      count : "125"
+      
+    # funfacts item loop
+    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Combined Projects"
+      count : "200"
+
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Raymond Roy"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Randi Renin"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Rose Rio"
+      image : "images/clients/avater-3.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
