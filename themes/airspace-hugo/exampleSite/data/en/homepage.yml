@@ -7,7 +7,7 @@ banner:
   content : ""
   button:
     enable : true
-    label : "Discover Our Project"
+    label : "看看我们的经典案例"
     link : "project"
 
 ############################# About #################################
@@ -55,34 +55,34 @@ cta:
   content : "将适当的人，在适当的时间，安排在适当的位置<br/>爱小生依托强大的系统服务，通过智能排班系统，帮助企业构建用工模型，精准预测用工时段，高效匹配高效的用工场景和人员模型，用数字驱动效率，用技能提升服务。"
   button:
     enable : true
-    label : "Tell Us Your Story"
+    label : "试用我们的产品"
     link : "contact"
 
 ############################# Funfacts ###############################
 funfacts:
   enable : true
-  title : "Fun Facts About Us"
+  title : "客户对我们的评价"
   description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
           blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
   funfact_item:
     # funfacts item loop
     - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Cups Of Coffee"
+      name : "服务企业客户数"
       count : "99"
       
     # funfacts item loop
     - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Article Written"
+      name : "服务企业客户数"
       count : "45"
       
     # funfacts item loop
     - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Projects Completed"
+      name : "服务企业客户数"
       count : "125"
       
     # funfacts item loop
     - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Combined Projects"
+      name : "服务企业客户数"
       count : "200"
 
   testimonial_slider:
@@ -94,9 +94,9 @@ funfacts:
                 ideas we feel that our site has unique elements that make us stand out from the crowd."
                 
     # testimonial item loop
-    - name : "Randi Renin"
+    - name : "王总"
       image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
+      designation : "大好多公司CEO"
       content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
                 ideas we feel that our site has unique elements that make us stand out from the crowd."
                 
