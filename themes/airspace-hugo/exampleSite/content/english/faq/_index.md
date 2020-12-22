@@ -2,61 +2,38 @@
 title: "Frequently Asked Questions"
 description: "this is meta description"
 subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-date: 2020-03-23T13:05:29+06:00
+date: 2020-11-23T13:05:29+06:00
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---
 
-### Welcome to Airspace!
+### 你们是怎么做的?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+我们是通过灵活用工平台把个人薪资所得转化成经营所得，申报个人经营所得税，您也知道像我们的工资属于综合所得分类，
+包含了劳务费、工资、稿酬稿费、特许经营，这个是有6万一年的免征额，超过6万或者年底超过12万是需要征收3%-45%的个税的，
+个人经营所得是核定征收，1.5%的个人经营所得税，单线申报，这两个是不需要合并计税的。
+<br><br>
 
-#### 1.Overview
+[comment]: <> (#### 为什么可以这么做)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+[comment]: <> (因为目前的税收暂行规定中，允许国地税去授权给一些机构去给异地或者零散的个人职业者去代为收税，并且会给他发一个委托代收的资质证明，)
 
-#### 2. Data We Collect
+[comment]: <> (这样个人或者自由职业者就可以通过签署承揽协议，在平台上接取任务，完成任务，获得佣金，这样的话就形成了一个闭环，所以我们可以这么做。)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+[comment]: <> (<br><br>)
 
-#### 3. How We Use Data
+[comment]: <> (#### 这么做有没有风险)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+[comment]: <> (这是目前市面上最合规的规避方式，硬要说什么风险那只有两点<br><br>)
 
-#### 4. How We Disclose Data.
+[comment]: <> (第一、极小的概率会出现税局打电话，问员工这个钱是什么，那如果直接这个员工完全不知情，那就可能会有问题了，)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
+[comment]: <> (（一般我们会设计好 那如果这个事先说好这笔钱是营销策划服务费，是通过接单，承揽获得的，那就没有问题了 ）<br><br>)
 
-#### 5. Security
+[comment]: <> (第二、是企业这边的，突然出现断崖式工资大跌，相比之前突然全部腰斩，那系统估计会预警，所以不能一下子出现特别大的变动)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
+[comment]: <> (<br>  )
 
-#### 6. Advertising.
+[comment]: <> (#### 费用是多少)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
-  
+[comment]: <> (报价是（7.5-9.5%）根据客户实际情况，流水报价，分为6%票面税点，0.78%附加税，1.5%的个人经营所得税,其他的是我们的管理费。)
