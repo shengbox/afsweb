@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "http://examplesite.org"
-title = "爱服生信息科技 | 上海爱服生信息科技"
+title = "爱服生信息科技 | 上海爱服生信息科技有限公司"
 theme = "airspace-hugo"
 themesDir = "../.."
 # post pagination
@@ -83,7 +83,7 @@ author = "Themefisher"
 # Contact Information
 mobile = "13621937713"
 email = "service@aifusheng.com"
-location = "杭州市江干区华润大厦4108"
+location = "上海市杨浦区霍山路777号大连路壹中心A座1501室"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -116,21 +116,21 @@ enable = false
 expire_days = 2
 
 ############################# social site ########################
-[[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+#[[params.social]]
+#icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "#"
+#
+#[[params.social]]
+#icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "#"
+#
+#[[params.social]]
+#icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "#"
+#
+#[[params.social]]
+#icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "#"
 
 [[params.social]]
 icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -148,7 +148,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 [上海爱服生信息科技有限公司](https://aifusheng.com) 版权所有 <br> ![img](https://daqingmei.com/img/备案图标.png) [沪ICP备2020034366号-2](http://www.beian.miit.gov.cn) "
+copyright = "Copyright &copy; 2020 上海爱服生信息科技有限公司 版权所有 <br/> &emsp;  [增值电信业务经营许可证：沪B2-20201613](https://dxzhgl.miit.gov.cn)  &emsp; [沪ICP备2020034366号-2](https://beian.miit.gov.cn) &emsp; ![img](https://daqingmei.com/img/备案图标.png) [沪公网安备 31011002005401](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011002005401) "
 
 
 ######################### english navigation #############################
@@ -220,15 +220,15 @@ name = "服务"
 URL = "service"
 weight = 3
 
-[[Languages.en.menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
+#[[Languages.en.menu.footer]]
+#name = "Pricing"
+#URL = "pricing"
+#weight = 4
 
-[[Languages.en.menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
+#[[Languages.en.menu.footer]]
+#name = "FAQ"
+#URL = "faq"
+#weight = 5
 
 [[Languages.en.menu.footer]]
 name = "联系我们"
